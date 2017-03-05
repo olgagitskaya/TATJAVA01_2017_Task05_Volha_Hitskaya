@@ -22,11 +22,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="TATJAVA01_2017_Task05_Volha_Hitskaya" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TATJAVA01_2017_Task05_Volha_Hitskaya" target="1.5" />
+      <module name="Task05" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
